@@ -25,7 +25,7 @@ Hola! 👋 Nos alegra que hayas llegado hasta este punto y puedas llegar a ser p
 
 ![Diagrama Modelo Entidad Relación](./Diagramas/Diagram.png)
 
-- usar SQL Server, MySQL, Postgresql o Oracle DB para la base de datos.
+- usar SQL Server (Recomendada), MySQL, Postgresql o Oracle DB para la base de datos.
 
 - Importe los datos de las tablas con los CVS (opcional).
 
