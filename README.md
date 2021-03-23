@@ -23,7 +23,7 @@ Hola! 👋 Nos alegra que hayas llegado hasta este punto y puedas llegar a ser p
 
 - Crear la siguiente estructura de base datos en SQL a partir de siguiente diagrama :
 
-![Diagrama Modelo Entidad Relación](./Diagramas/Diagram.png)
+![Diagrama Modelo Entidad Relación](./assets/erd.png)
 
 - usar SQL Server (Recomendada), MySQL, Postgresql o Oracle DB para la base de datos.
 
