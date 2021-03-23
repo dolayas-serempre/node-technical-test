@@ -50,6 +50,8 @@ Crea una aplication web API en Node.js que tenga los siguientes recursos disponi
 - Uso de metodos para peticiones HTTP
 - Validacion de datos
 - Manejo de errores
+- El uso de patrones de diseno SOLID, KISS DRY, MVC etc.
+- Documentacion de codigo
 
 ## Recomendaciones
 
