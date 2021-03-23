@@ -9,7 +9,7 @@ Hola! 👋 Nos alegra que hayas llegado hasta este punto y puedas llegar a ser p
 
 ## Extras
 
-- Documentación del API Swagger o Postman
+- Documentación del API Swagger, ReDoc o Postman
 - Implementar contenedores con Docker
 - Desplegar en un servidor web Azure App Service, AWS, Google Cloud, Heroku o Netlify etc.
 - Pruebas Unitarias
