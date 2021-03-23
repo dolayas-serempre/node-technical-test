@@ -5,7 +5,7 @@ Hola! 👋 Nos alegra que hayas llegado hasta este punto y puedas llegar a ser p
 ## Entregables
 
 - Repositorio GIT con código fuente
-- Scripts sql para la creacion de la Base datos, creacion de las tablas e insertado de datos 
+- Scripts sql para la creacion de la Base datos, creacion de las tablas e insertado de datos
 
 ## Extras
 
@@ -14,26 +14,26 @@ Hola! 👋 Nos alegra que hayas llegado hasta este punto y puedas llegar a ser p
 - Desplegar en un servidor web Azure App Service, AWS, Google Cloud, Heroku o Netlify etc.
 - Pruebas Unitarias
 - Uso de TypeScript
-- Utilizar una solucion con ORM (Object-relational mapping)
+- Implementar una solucion con ORM (Object-relational mapping)
 - Uso de algun framework de tu conocimiento (Nest, Sails, Adonis)
 
 ## Desarrollo de la prueba
 
 ### Base de datos
 
-- Crear la siguiente estructura de base datos en SQL a partir de siguiente diagrama :
+- Crea tu base de datos en SQL a partir del siguiente diagrama :
 
 ![Diagrama Modelo Entidad Relación](./assets/erd.png)
 
-- usar SQL Server (Recomendada), MySQL, Postgresql o Oracle DB para la base de datos.
+- puedes usar SQL Server (Recomendada), MySQL, Postgresql o Oracle DB para tu base de datos.
 
-- Importe los datos de las tablas con los CVS (opcional).
+- Importa los datos de las tablas con los CVS (opcional).
 
 ### Servicio web
 
-Realizar un Web API en Node.js, debe tener los siguientes recursos disponibles :
+Crea una aplication web API en Node.js que tenga los siguientes recursos disponibles :
 
-| Recurso   	| Endpoint            	| Entradas                                          	| Descripcion 	| Respuesta 	|
+| Recurso   	| Endpoint            	| Peticion                                          	| Descripcion 	| Respuesta 	|
 |-----------	|---------------------	|---------------------------------------------------	|-------------	|-----------	|
 | Productos 	| api/products        	| QueryParams : (pagina, cantidad items por pagina) 	|             	|           	|
 | Productos 	| api/products/:id    	| Params : (id de producto)                         	|             	|           	|
