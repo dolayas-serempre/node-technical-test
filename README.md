@@ -33,7 +33,7 @@ En caso de que quieras correr la milla extra puedes realizar estos puntos extra:
 
 <img src="./assets/erd.png" alt="Diagrama Modelo Entidad Relación" style="zoom:150%;" />
 
-2. usar SQL Server (Recomendada), MySQL, PostgreSQL o Oracle DB para la base de datos.
+2. usar SQL Server (Recomendada), MySQL, PostgreSQL para la base de datos.
 3. Importa los datos de las tablas usando los CVS en la carpeta [assets/data](./assets/data) (opcional).
 
 
@@ -75,6 +75,7 @@ Realizar un Web API en Node.js express, debe tener los siguientes recursos dispo
 ## Recomendaciones
 
 - IDE para administrar bases de datos [DataGrip](https://www.jetbrains.com/datagrip/)
+- Versiones de BD : MySQL 8, MSSQL 2017-2019, PostgreSQL 13
 
 
 
