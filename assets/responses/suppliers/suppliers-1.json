@@ -1,0 +1,14 @@
+{
+    "address": {
+        "city": "Tokyo",
+        "country": "Japan",
+        "phone": "(03) 3555-5011",
+        "postalCode": 100,
+        "region": "NULL",
+        "street": "9-8 Sekimai Musashino-shi"
+    },
+    "companyName": "Tokyo Traders",
+    "contactName": "Yoshi Nagase",
+    "contactTitle": "Marketing Manager",
+    "id": 4
+}

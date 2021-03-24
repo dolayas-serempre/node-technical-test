@@ -1,0 +1,32 @@
+{
+    "description": "Soft drinks coffees teas beers and ales",
+    "id": 1,
+    "name": "Beverages",
+    "picture": "base64string",
+    "products": [
+        {
+            "discontinued": true,
+            "id": 4,
+            "productName": "Chef Anton's Cajun Seasoning",
+            "quantityPerUnit": "48 - 6 oz jars",
+            "reorderLevel": 0,
+            "supplier": {
+                "address": {
+                    "city": "New Orleans",
+                    "country": "USA",
+                    "phone": "(100) 555-4822",
+                    "postalCode": 70117,
+                    "region": "LA",
+                    "street": "P.O. Box 78934"
+                },
+                "companyName": "New Orleans Cajun Delights",
+                "contactName": "Shelley Burke",
+                "contactTitle": "Order Administrator",
+                "id": 2
+            },
+            "unitPrice": 22,
+            "unitsInStock": 53,
+            "unitsOnOrder": 0
+        }
+    ]
+}
